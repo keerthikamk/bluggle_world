@@ -32,7 +32,7 @@
             <div class="content-wraps text-center mt-3">
               <div class="content_wrap  ">
                 <h1 class="text-white  ">
-                Exclusive Webinar to Strengthen Your Cybersecurity Strategy<mark>Investment Success</mark> 
+                 Mastering the Finances for <mark>Investment Success</mark> 
                    
                 </h1>
                 <h6 class="text-white " >Empowering Your Investment Journey Through <mark class="ms-1"> Financial Expertise!</mark>
@@ -89,7 +89,7 @@
               </ul>
             </div> -->
             <h2 class="details_item_title">
-            Join Us for an Exclusive Cyber Security Event: Data Privacy as a Strategic Imperative
+            Discover the World of Investing with Bluggle!
             </h2>
             <p>
             Curious about investing but not sure where to begin? Or maybe you're looking to sharpen your skills and dive deeper into the financial markets, including Forex trading and stock markets? You're in the right place!
